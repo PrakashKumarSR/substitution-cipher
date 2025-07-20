@@ -1,0 +1,17 @@
+Python 3.x
+
+Uses only standard library (string, random)
+
+📄 License
+This project is licensed under the MIT License.
+
+yaml
+Copy
+Edit
+
+---
+
+## 📄 3. `requirements.txt`
+
+```txt
+# No external libraries required (standard library only)
